@@ -1,0 +1,9 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Sources,Doculect_Dutch
+CentralMalay,CentralMalay,mala1479,Central Malay,zlm,Eurasia,1.85856,103.0,Austronesian,VonRosenberg1853,Maleisch
+Lampungic,Lampungic,lamp1241,Lampungic,,,,,Austronesian,VonRosenberg1853,Lampongsch
+Rejang,Rejang,reja1240,Rejang,rej,Papunesia,-3.33056,102.434,Austronesian,VonRosenberg1853,Redjangsch
+Batakic,Batakic,toba1265,Batakic,,,,,Austronesian,VonRosenberg1853,Battasch
+Acehnese,Acehnese,achi1257,Acehnese,ace,Eurasia,3.90757,96.6032,Austronesian,VonRosenberg1853,Atjinesch
+Nias,Nias,nias1242,Nias,nia,Papunesia,0.90691,97.4961,Austronesian,VonRosenberg1853,Niasch
+Mentawai,Mentawai,ment1249,Mentawai,mwv,Papunesia,-1.41092,98.9401,Austronesian,VonRosenberg1853,Mentaweijsch
+Enggano,Enggano,engg1245,Enggano,eno,Papunesia,-5.38846,102.245,Austronesian,VonRosenberg1853,Engganoosch

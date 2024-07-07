@@ -25,7 +25,7 @@ dutch_w_english <- read_tsv("etc/dutch_w_english.tsv")
 
 doculect <- tribble(
 	~Doculect, ~Doculect_Eng, ~Glottocode, ~Glottolog_name,
-	"Maleisch", "Central Malay", "mala1479", "Central Malay",
+	"Maleisch", "CentralMalay", "mala1479", "Central Malay",
 	"Lampongsch", "Lampungic", "lamp1241", "Lampungic",
 	"Redjangsch", "Rejang", "reja1240", "Rejang",
 	"Battasch", "Batakic", "toba1265", "Batakic",
@@ -36,6 +36,17 @@ doculect <- tribble(
 )
 # I choose Glottolog's Central Malay because I am not really sure the specific Malay variety referred to by von Rosenberg. Glottolog describes Central Malay as the primary source of the variety of Malay spoken throughout the South East Asia: "Malay (zlm-zlm) = 3 (Wider communication). Originated in Sumatra; spoken throughout southeast Asia. With the advent of Islam, Malay became widespread in the 15th and 16th centuries. Lingua franca for Malaysia’s multiethnic population. Used in trade, literature, and story telling."
 
+# save the doculect table as languages.tsv in `etc`
+doculect |>
+	mutate(ID = row_number()) |>
+	select(ID, everything()) |>
+	mutate(Sources = "VonRosenberg1853") |>
+	rename(Glottolog_Name = Glottolog_name,
+		   Name = Doculect_Eng,
+		   Doculect_Dutch = Doculect) |>
+	write_tsv("etc/languages.tsv")
+
+
 df <- df |>
 	left_join(dutch_w_english) |>
 	select(ID, Forms, Dutch, English, Doculect) |>
@@ -43,11 +54,21 @@ df <- df |>
 	rename(Doculect_orig = Doculect,
 		   Doculect = Doculect_Eng)
 
-df |> write_tsv("raw/raw-dat.tsv")
-
 # Prepare the concept for Concepticon mapping
 # df |>
 # 	select(ENGLISH = English, ID) |>
 # 	distinct() |>
 # 	write_tsv("etc/gloss-to-map.tsv")
   
+
+# join the concept to the raw main data
+concepts <- read_tsv("etc/concepts.tsv") |>
+	rename(ID = Number,
+		   English = Gloss)
+df <- df |>
+	left_join(concepts) |>
+	rename(Form = Forms) |>
+	# generate new ID
+	mutate(ID = row_number())
+
+df |> write_tsv("raw/raw-dat.tsv")

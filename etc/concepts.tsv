@@ -1,15 +1,11 @@
-ENGLISH	ID	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY
-one	1	1493	ONE	2
-#<<<				
-two	2	1498	TWO	2
-two	2	1384	SECOND	2
-#>>>				
-three	3	492	THREE	2
-four	4	1500	FOUR	2
-five	5	493	FIVE	2
-six	6	1703	SIX	2
-seven	7	1704	SEVEN	2
-eight	8	1705	EIGHT	2
-nine	9	1483	NINE	2
-ten	10	1515	TEN	2
-#	10/10	100%	
+Gloss	Number	Concepticon_ID	Concepticon_Gloss
+one	1	1493	ONE
+two	2	1498	TWO
+three	3	492	THREE
+four	4	1500	FOUR
+five	5	493	FIVE
+six	6	1703	SIX
+seven	7	1704	SEVEN
+eight	8	1705	EIGHT
+nine	9	1483	NINE
+ten	10	1515	TEN
