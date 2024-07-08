@@ -23,5 +23,12 @@ map_concepts "etc/gloss-to-map.tsv" --language en --output "etc/concepts.tsv"
 
 # edit the .py custom code
 
+# make directory for orthography in etc
+mkdir etc/orthography
+mkdir etc/transliterated
+
+
+# create orthography profile skeleton in R and save it in etc/orthography
+
 # test the CLDF
 cldfbench lexibank.makecldf cldfbench_vrosenberg1853.py --glottolog "/Users/Primahadi/Documents/cldf_project/glottolog-glottolog-d9da5e2" --concepticon "/Users/Primahadi/Documents/cldf_project/concepticon/concepticon-data" --clts "/Users/Primahadi/Documents/cldf_project/cldf-clts-clts-6dc73af"
