@@ -5,12 +5,15 @@ df <- read_tsv("raw/raw-dat.tsv")
 
 doculect <- unique(df$Doculect)
 
+# The for-loop below is for creating the first orthography profile (followed with manual post-editing)
+
 # for (dcl in seq_along(doculect)) {
 #    txts <- pull(filter(df, Doculect == doculect[dcl]), Form)
 
 #    qlcData::write.profile(txts, normalize = "NFC", info = TRUE, editing = TRUE, file.out = paste("etc/orthography/", doculect[dcl], ".tsv", sep = ""))
 #}
 
+# The for-loop below is for tokenising and transliterating the forms based on the orthography profile
 for (i in seq_along(doculect)) {
 
     txts <- df$Form[df$Doculect == doculect[i]]
