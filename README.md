@@ -1,5 +1,9 @@
 # CLDF dataset derived from von Rosenberg's "De Mentawei-Eilanden en Hunne Bewoners" from 1853 for comparative numeral data
 
+*This work is part of the [AHRC-funded research](https://gtr.ukri.org/projects?ref=AH%2FW007290%2F1) to build lexical resources for Enggano, led by the Faculty of Linguistics, Philology and Phonetics at the University of Oxford, UK. Visit the [central webpage of the Enggano research](https://enggano.ling-phil.ox.ac.uk/)*.
+
+[![CLDF validation](https://github.com/complexico/vrosenberg1853-numeral/workflows/CLDF-validation/badge.svg)](https://github.com/complexico/vrosenberg1853-numeral/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
