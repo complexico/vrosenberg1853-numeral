@@ -1,0 +1,43 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  CLDF dataset derived from von Rosenberg's "De
+  Mentawei-Eilanden en Hunne Bewoners" from 1853 for
+  comparative numeral data
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: University of Oxford & Udayana University
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+repository-code: 'https://github.com/complexico/vrosenberg1853-numeral'
+abstract: >-
+  Cross-Linguistic Data Format (CLDF) dataset derived from
+  von Rosenberg's "De Mentawei-Eilanden en Hunne Bewoners"
+  from 1853 for the comparative numeral data (p. 434). It is
+  a work-in-progress and another practice session with CLDF
+  to handle/test multple languages. In this first version
+  (v1.0.0), the word forms are still in the original
+  orthography and not yet segmented/tokenised. The next
+  release attempts to include orthography standardisation
+  and segmentation.
+keywords:
+  - Barrier-Island Languages
+  - CLDF
+  - Lexical Dataset
+  - Old Word List
+  - Legacy Materials
+  - Numeral
+  - Comparative Word List
+  - Indonesian Languages
+  - Cross-Linguistic Lexical Database
+  - Word List
+license: CC-BY-NC-SA-4.0
+version: 1.0.0
+date-released: '2025-02-06'
