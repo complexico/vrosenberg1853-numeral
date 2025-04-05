@@ -27,8 +27,8 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc-sa/4
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 374
-- **Segments:** 29 (0 BIPA errors, 0 CLTS sound class errors, 29 CLTS modified)
+- **Tokens:** 373
+- **Segments:** 30 (0 BIPA errors, 0 CLTS sound class errors, 30 CLTS modified)
 - **Inventory size (avg):** 15.38
 
 ## CLDF Datasets
