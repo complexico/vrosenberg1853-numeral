@@ -85,3 +85,4 @@ lingpy profile --clts --cldf --column=form --context -i cldf/cldf-metadata.json 
 # 2025-04-05 09:19:26,121 [INFO] Data has been written to file <etc/orthography.tsv>.
 
 # git add etc/orthography.tsv <- to track the editing
+

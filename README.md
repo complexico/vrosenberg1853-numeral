@@ -1,9 +1,5 @@
 # CLDF dataset derived from von Rosenberg's "De Mentawei-Eilanden en Hunne Bewoners" from 1853 for comparative numeral data
 
-*This work is part of the [AHRC-funded research](https://gtr.ukri.org/projects?ref=AH%2FW007290%2F1) to build lexical resources for Enggano, led by the Faculty of Linguistics, Philology and Phonetics at the University of Oxford, UK. Visit the [central webpage of the Enggano research](https://enggano.ling-phil.ox.ac.uk/)*.
-
-[![CLDF validation](https://github.com/complexico/vrosenberg1853-numeral/workflows/CLDF-validation/badge.svg)](https://github.com/complexico/vrosenberg1853-numeral/actions?query=workflow%3ACLDF-validation)
-
 ## How to cite
 
 If you use these data please cite
@@ -22,12 +18,18 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc-sa/4
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 8 (linked to 8 different Glottocodes)
 - **Concepts:** 10 (linked to 10 different Concepticon concept sets)
 - **Lexemes:** 80
 - **Sources:** 1
 - **Synonymy:** 1.00
+- **Invalid lexemes:** 0
+- **Tokens:** 374
+- **Segments:** 29 (0 BIPA errors, 0 CLTS sound class errors, 29 CLTS modified)
+- **Inventory size (avg):** 15.38
 
 ## CLDF Datasets
 
