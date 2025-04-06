@@ -20,9 +20,9 @@
 | lː | 6 | ✓ | ✓ |
 | w | 6 | ✓ | ✓ |
 | j | 5 | ✓ | ✓ |
+| + | 4 | ✓ | ✓ |
 | r | 4 | ✓ | ✓ |
 | ŋ | 4 | ✓ | ✓ |
-| _ | 3 | ✓ | ✓ |
 | f | 3 | ✓ | ✓ |
 | g | 3 | ✓ | ✓ |
 | k | 3 | ✓ | ✓ |
@@ -31,13 +31,12 @@
 | pː | 2 | ✓ | ✓ |
 | ö | 2 | ✓ | ✓ |
 | ʔ | 2 | ✓ | ✓ |
-| + | 1 | ✓ | ✓ |
 | b | 1 | ✓ | ✓ |
 | d͡ʒ | 1 | ✓ | ✓ |
 | fː | 1 | ✓ | ✓ |
 | nː | 1 | ✓ | ✓ |
 
-(31 rows)
+(30 rows)
 
 
 
@@ -53,11 +52,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------|:-----------|:----------|:-------------|:----------------------|
-| Enggano-7_seven-1 | Enggano | 7_seven | alima-adoea | a l i m a _ a d u a |
-| Enggano-8_eight-1 | Enggano | 8_eight | alima-agoloe | a l i m a _ a g o l u |
-| Enggano-9_nine-1 | Enggano | 9_nine | alima-aöpa | a l i m a _ a ʔ ö p a |
+|------|------------|-----------|--------|------------|
 
-(3 rows)
+(0 rows)
 
 

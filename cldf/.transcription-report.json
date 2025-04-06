@@ -7,9 +7,6 @@
                 "+": [
                     "+"
                 ],
-                "_": [
-                    "_"
-                ],
                 "a": [
                     "a"
                 ],
@@ -125,9 +122,6 @@
                 "+": [
                     "+"
                 ],
-                "_": [
-                    "_"
-                ],
                 "a": [
                     "a"
                 ],
@@ -239,9 +233,6 @@
             "replacements": {
                 "+": [
                     "+"
-                ],
-                "_": [
-                    "_"
                 ],
                 "a": [
                     "a"
@@ -356,9 +347,6 @@
                 "+": [
                     "+"
                 ],
-                "_": [
-                    "_"
-                ],
                 "a": [
                     "a"
                 ],
@@ -449,7 +437,7 @@
             },
             "sclass_errors": [],
             "segments": {
-                "_": 3,
+                "+": 3,
                 "a": 23,
                 "d": 3,
                 "e": 1,
@@ -474,9 +462,6 @@
             "replacements": {
                 "+": [
                     "+"
-                ],
-                "_": [
-                    "_"
                 ],
                 "a": [
                     "a"
@@ -592,9 +577,6 @@
                 "+": [
                     "+"
                 ],
-                "_": [
-                    "_"
-                ],
                 "a": [
                     "a"
                 ],
@@ -709,9 +691,6 @@
             "replacements": {
                 "+": [
                     "+"
-                ],
-                "_": [
-                    "_"
                 ],
                 "a": [
                     "a"
@@ -829,9 +808,6 @@
                 "+": [
                     "+"
                 ],
-                "_": [
-                    "_"
-                ],
                 "a": [
                     "a"
                 ],
@@ -941,30 +917,8 @@
         }
     },
     "stats": {
-        "bad_words": [
-            [
-                "Enggano-7_seven-1",
-                "Enggano",
-                "7_seven",
-                "alima-adoea",
-                "a l i m a _ a d u a"
-            ],
-            [
-                "Enggano-8_eight-1",
-                "Enggano",
-                "8_eight",
-                "alima-agoloe",
-                "a l i m a _ a g o l u"
-            ],
-            [
-                "Enggano-9_nine-1",
-                "Enggano",
-                "9_nine",
-                "alima-ao\u0308pa",
-                "a l i m a _ a \u0294 \u00f6 p a"
-            ]
-        ],
-        "bad_words_count": 3,
+        "bad_words": [],
+        "bad_words_count": 0,
         "bipa_errors": [],
         "general_errors": 0,
         "invalid_words": [],
@@ -973,9 +927,6 @@
         "replacements": {
             "+": [
                 "+"
-            ],
-            "_": [
-                "_"
             ],
             "a": [
                 "a"
@@ -1067,8 +1018,7 @@
         },
         "sclass_errors": [],
         "segments": {
-            "+": 1,
-            "_": 3,
+            "+": 4,
             "a": 81,
             "b": 1,
             "d": 15,
