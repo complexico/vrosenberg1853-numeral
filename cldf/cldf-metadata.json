@@ -13,7 +13,7 @@
         {
             "rdf:about": "git@github.com:complexico/vrosenberg1853-numeral",
             "rdf:type": "prov:Entity",
-            "dc:created": "1.0.0-5-g000d87c",
+            "dc:created": "1.0.0-6-gdf58615",
             "dc:title": "Repository"
         },
         {
