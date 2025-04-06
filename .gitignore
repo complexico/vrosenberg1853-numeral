@@ -60,6 +60,13 @@ instance/
 
 # Scrapy stuff:
 .scrapy
+raw/transliterated/
+raw/orthography-from-R/
+etc/00-deeplr.R
+.DS_Store
+.vscode/
+etc/.DS_Store
+raw/.DS_Store
 
 # Sphinx documentation
 docs/_build/
@@ -69,6 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+test-code.ipynb
 
 # pyenv
 .python-version

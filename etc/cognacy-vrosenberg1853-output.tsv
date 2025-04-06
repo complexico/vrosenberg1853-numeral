@@ -1,0 +1,81 @@
+ID	DOCULECT	CONCEPT	IPA	TOKENS	COGID	ALIGNMENT
+57	CentralMalay	eight	delapan	d e l a p a n	1	d e l a p a n
+58	Lampungic	eight	oalːo	o a lː o	2	- o a lː o
+59	Rejang	eight	delapon	d e l a p o n	1	d e l a p o n
+60	Batakic	eight	oalːo	o a lː o	2	- o a lː o
+61	Acehnese	eight	dlapːaŋ	d l a pː a ŋ	1	d - l a pː a ŋ
+62	Nias	eight	walːu	w a lː u	2	w a - lː u
+63	Mentawai	eight	walːu	w a lː u	2	w a - lː u
+64	Enggano	eight	alima+agolu	a l i m a + a g o l u	4	a l i m a + a g o l u
+33	CentralMalay	five	lima	l i m a	5	- l i m a -
+34	Lampungic	five	lema	l e m a	5	- l e m a -
+35	Rejang	five	lema	l e m a	5	- l e m a -
+36	Batakic	five	lema	l e m a	5	- l e m a -
+37	Acehnese	five	lemuŋ	l e m u ŋ	5	- l e m u ŋ
+38	Nias	five	limaŋ	l i m a ŋ	5	- l i m a ŋ
+39	Mentawai	five	liman	l i m a n	5	- l i m a n
+40	Enggano	five	alima	a l i m a	5	a l i m a -
+25	CentralMalay	four	ampat	a m p a t	6	a m p a t
+26	Lampungic	four	ampa	a m p a	6	a m p a -
+27	Rejang	four	mpat	m p a t	6	- m p a t
+28	Batakic	four	opat	o p a t	6	o - p a t
+29	Acehnese	four	pat	p a t	6	- - p a t
+30	Nias	four	efːa	e fː a	12	e fː a
+31	Mentawai	four	epːat	e pː a t	6	e - pː a t
+32	Enggano	four	aʔöpa	a ʔ ö p a	9	a ʔ ö p a
+65	CentralMalay	nine	sembilan	s e m b i l a n	13	s e m b i l a n
+66	Lampungic	nine	sewa	s e w a	14	s e w a
+67	Rejang	nine	sempilan	s e m p i l a n	13	s e m p i l a n
+68	Batakic	nine	sea	s e a	14	s e - a
+69	Acehnese	nine	sakoraŋ	s a k o r a ŋ	13	s a - k o r a ŋ
+70	Nias	nine	siwa	s i w a	14	s i w a
+71	Mentawai	nine	siwa	s i w a	14	s i w a
+72	Enggano	nine	alima+aʔöpa	a l i m a + a ʔ ö p a	16	a l i m a + a ʔ ö p a
+1	CentralMalay	one	satu	s a t u	17	s a t u
+2	Lampungic	one	sije	s i j e	17	s i j e
+3	Rejang	one	do	d o	24	d o
+4	Batakic	one	sada	s a d a	17	s a d a
+5	Acehnese	one	sa	s a	17	s a - -
+6	Nias	one	sara	s a r a	17	s a r a
+7	Mentawai	one	sara	s a r a	17	s a r a
+8	Enggano	one	daheij	d a h e i j	20	d a h e i j
+49	CentralMalay	seven	tud͡ʒu	t u d͡ʒ u	25	t u d͡ʒ u -
+50	Lampungic	seven	peto	p e t o	26	p e - t o
+51	Rejang	seven	tojoa	t o j o a	25	t o j o a
+52	Batakic	seven	paito	p a i t o	26	p a i t o
+53	Acehnese	seven	tojo	t o j o	25	t o j o -
+54	Nias	seven	fitu	f i t u	26	f i - t u
+55	Mentawai	seven	pitu	p i t u	26	p i - t u
+56	Enggano	seven	alima+adua	a l i m a + a d u a	28	a l i m a + a d u a
+41	CentralMalay	six	anam	a n a m	30	- - a n a m
+42	Lampungic	six	anam	a n a m	30	- - a n a m
+43	Rejang	six	noːm	n oː m	30	- - - n oː m
+44	Batakic	six	onam	o n a m	30	- - o n a m
+45	Acehnese	six	nam	n a m	30	- - - n a m
+46	Nias	six	e+nem	e + n e m	30	e + - n e m
+47	Mentawai	six	enːem	e nː e m	30	- - e nː e m
+48	Enggano	six	akiakoio	a k i a k o i o	32	a k i a k o i o
+73	CentralMalay	ten	sapulu	s a p u l u	33	- - s a p u l u
+74	Lampungic	ten	polo	p o l o	33	- - - - p o l o
+75	Rejang	ten	depoːlo	d e p oː l o	33	d e - - p oː l o
+76	Batakic	ten	sapolo	s a p o l o	33	- - s a p o l o
+77	Acehnese	ten	sapolo	s a p o l o	33	- - s a p o l o
+78	Nias	ten	fulu	f u l u	33	- - - - f u l u
+79	Mentawai	ten	pulu	p u l u	33	- - - - p u l u
+80	Enggano	ten	tahapulu	t a h a p u l u	33	t a h a p u l u
+17	CentralMalay	three	tiga	t i g a	36	t i g a
+18	Lampungic	three	pulːo	p u lː o	37	- p u lː o
+19	Rejang	three	telːau	t e lː a u	34	t e lː a u
+20	Batakic	three	tolo	t o l o	34	t o l - o
+21	Acehnese	three	tlo	t l o	34	t - l - o
+22	Nias	three	felu	f e l u	37	- f e l u
+23	Mentawai	three	telu	t e l u	34	t e l - u
+24	Enggano	three	agolu	a g o l u	37	a g o l u
+9	CentralMalay	two	dua	d u a	38	- d u a -
+10	Lampungic	two	rowa	r o w a	42	r o w a
+11	Rejang	two	doːij	d oː i j	38	- d oː i j
+12	Batakic	two	duo	d u o	38	- d u o -
+13	Acehnese	two	dua	d u a	38	- d u a -
+14	Nias	two	dua	d u a	38	- d u a -
+15	Mentawai	two	dua	d u a	38	- d u a -
+16	Enggano	two	adua	a d u a	38	a d u a -
